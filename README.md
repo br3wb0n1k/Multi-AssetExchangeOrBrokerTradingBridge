@@ -21,6 +21,8 @@ Stock, Bond, Future, Commodity Exchanges:
 
 Stock, Bond, Future, Commodity Brokers:
   1. Interactive Brokers - https://github.com/InteractiveBrokers/tws-api-public
+  2. CityIndex - https://github.com/lgimyuen/Python-CityIndex-API
+  3. ETrade - https://github.com/jessecooper/pyetrade
 
 Forex Brokers:
   1. Interactive Brokers - https://github.com/InteractiveBrokers/tws-api-public
