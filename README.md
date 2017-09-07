@@ -1,7 +1,7 @@
-# Multi-AssetExchangeTradingBridge
+# Multi-AssetExchangeOrBrokerTradingBridge
 The code is for sending our blackbox trading signal to various exchanges and brokers (Cryptocurrency, Stocks, Forex etc) for executing trades
 
-Trading exchanges for our Quant Fund:
+Trading exchanges and brokers for our Quant Fund:
 
 Cryptocurrency Exchanges:
   1. Waves - (PyWaves) https://github.com/PyWaves/PyWaves
@@ -13,5 +13,5 @@ Cryptocurrency Exchanges:
 Stock Exchanges:
   1. 
   
-Forex Exchanges:
+Forex Brokers:
   
