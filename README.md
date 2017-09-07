@@ -1,5 +1,5 @@
 # Multi-AssetExchangeTradingBridge
-The code is for sending our blackbox trading signal to various exchanges (Cryptocurrency, Stocks, Forex etc) for executing trades
+The code is for sending our blackbox trading signal to various exchanges and brokers (Cryptocurrency, Stocks, Forex etc) for executing trades
 
 Trading exchanges for our Quant Fund:
 
@@ -12,3 +12,6 @@ Cryptocurrency Exchanges:
   
 Stock Exchanges:
   1. 
+  
+Forex Exchanges:
+  
