@@ -1,4 +1,4 @@
-# Multi-AssetExchangeOrBrokerTradingBridge
+# Multi-Asset Exchange Or Broker Trading Bridge
 The code is for sending our blackbox trading signal to various exchanges and brokers (Cryptocurrency, Stocks, Forex etc) for executing trades
 
 Trading exchanges and brokers for our Quant Fund:
@@ -14,5 +14,5 @@ Stock Exchanges:
   1. 
   
 Forex Brokers:
-  1. Interactive Brokers - 
+  1. Interactive Brokers - https://github.com/InteractiveBrokers/tws-api-public
   
