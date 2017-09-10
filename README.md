@@ -1,5 +1,5 @@
 # Multi-Asset Exchange Or Broker Trading Bridge
-The code is for sending our blackbox trading signals to various exchanges and brokers (Cryptocurrency, Stock, Bond, Future, Commodity, Forex etc) for trade execution purposes.
+The code is for sending our blackbox (Risk-Cybernetics AI) trading signals to various exchanges and brokers (Cryptocurrency, Stock, Bond, Future, Commodity, Forex etc) for trade execution purposes.
 
 Following trading exchanges and brokers are included but not limited to for our Quant Fund:
 
@@ -27,3 +27,6 @@ Stock, Bond, Future, Commodity Brokers:
 Forex Brokers:
   1. Interactive Brokers - https://github.com/InteractiveBrokers/tws-api-public
   2. Oanda - https://github.com/oanda
+  
+Notes:  Risk-Cybernetics AI is our proprietary technology which is built with AI Aggregator. 
+        With buying Finamatrix token, you are allowed to access our AI technology and Super Assets.
